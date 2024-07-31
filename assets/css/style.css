@@ -4,7 +4,7 @@
 }
 
 @font-face {
-    font-family: Inter-Medium;
+    font-family: cursive;
     src: url(../fonts/DMSans-Medium.ttf);
 }
 
@@ -14,7 +14,7 @@
 }
 
 @font-face {
-    font-family: Inter-large;
+    font-family: Roboto;
     src: url(../fonts/EBGaramond-Italic-VariableFont_wght.ttf);
 }
 
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .mg-header-i-font {
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 700;
     font-size: 13px;
 }
@@ -154,7 +154,7 @@ a:hover {
 .mg-header-fire-icn {
     color: #151515;
     font-size: 12px;
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     font-weight: 500;
     text-decoration: none;
     cursor: pointer;
@@ -184,7 +184,7 @@ a:hover {
     writing-mode: tb;
     transform: rotate(-180deg);
     font-size: 12px;
-    font-family: inter-small;
+    font-family: Inter-small;
 }
 
 .mg-scroll-text img {
@@ -201,7 +201,7 @@ a:hover {
 }
 
 .mg-banner-span {
-    font-family: Inter-large;
+    font-family: Roboto;
     font-size: 40px;
     font-weight: 500;
 }
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .mg-banner-text-3 {
-    font-family: Inter-Medium;
+    font-family: cursive;
     padding-right: 100px;
     padding-top: 15px;
 }
@@ -234,7 +234,7 @@ a:hover {
     padding: 8px 30px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -248,7 +248,7 @@ a:hover {
     padding: 8px 30px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -310,19 +310,19 @@ a:hover {
 }
 
 .mg-category-card-text-1 {
-    font-family: Inter-Medium;
+    font-family: cursive;
     font-size: 25px;
     margin-top: 25px;
 }
 
 .mg-category-card-text-2 {
-    font-family: Inter-Medium;
+    font-family: cursive;
     font-size: 13px;
     padding: 15px 0;
 }
 
 .mg-category-top-span {
-    font-family: Inter-large;
+    font-family: Roboto;
 }
 
 .mg-categories-btn-outer {
@@ -377,7 +377,7 @@ a:hover {
 
 .mg-menu ul {
     list-style-type: none;
-    font-family: inter-medium;
+    font-family: cursive;
 }
 
 .mg-nav-outer {
@@ -426,7 +426,7 @@ a:hover {
     outline: none;
     background-color: transparent;
     font-size: 16px;
-    font-family: inter-small;
+    font-family: Inter-small;
     appearance: none;
 }
 
@@ -435,7 +435,7 @@ a:hover {
 }
 
 .mg-product-text-2 {
-    font-family: Inter-large;
+    font-family: Roboto;
     font-size: 21px;
     font-style: italic;
     font-weight: 600;
@@ -451,7 +451,7 @@ a:hover {
 }
 
 .mg-product-span-1 {
-    font-family: Inter-large;
+    font-family: Roboto;
     font-weight: 500;
 }
 
@@ -465,7 +465,7 @@ a:hover {
     font-size: 14px;
     font-weight: 500;
     padding: 10px 0;
-    font-family: Inter-Medium;
+    font-family: cursive;
 }
 
 .mg-product-outer {
@@ -508,7 +508,7 @@ a:hover {
 .mg-pro-t-2 {
     font-size: 20px;
     font-weight: 700;
-    font-family: Inter-large;
+    font-family: Roboto;
     margin: 15px 0;
 }
 
@@ -531,7 +531,7 @@ a:hover {
 
 .mg-pro-t-3 {
     font-size: 14px;
-    font-family: Inter-Medium;
+    font-family: cursive;
 }
 
 .mg-textbox-outer {
@@ -550,12 +550,12 @@ a:hover {
 .mg-textbox-t-1 {
     font-size: 20px;
     text-transform: capitalize;
-    font-family: Inter-Medium;
+    font-family: cursive;
 }
 
 .mg-textbox-t-2 {
     font-size: 50px;
-    font-family: Inter-large;
+    font-family: Roboto;
     font-weight: 500;
 }
 
@@ -575,7 +575,7 @@ a:hover {
     font-size: 14px;
     font-weight: 500;
     padding: 0 35px;
-    font-family: 'Inter-Medium';
+    font-family: 'cursive';
 }
 
 .mg-categories-text-1 {
@@ -604,13 +604,13 @@ a:hover {
     font-size: 13px;
     font-weight: 500;
     padding: 5px 2px;
-    font-family: 'Inter-Medium';
+    font-family: 'cursive';
 }
 
 .mg-gift-card-t-3 {
     font-size: 20px;
     font-weight: 700;
-    font-family: Inter-large;
+    font-family: Roboto;
     padding-bottom: 6px;
     padding-top: 5px;
 }
@@ -645,7 +645,7 @@ a:hover {
 
 .mg-slider-inr-text-3 {
     font-size: 22px;
-    font-family: Inter-large;
+    font-family: Roboto;
     font-weight: 600;
     margin-top: 70px;
 }
@@ -722,7 +722,7 @@ a:hover {
     font-size: 20px;
     border: none;
     outline: none;
-    font-family: Inter-large;
+    font-family: Roboto;
     color: #151515;
     font-weight: 600;
     background: transparent;
@@ -746,7 +746,7 @@ a:hover {
     padding: 8px 30px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -783,14 +783,14 @@ a:hover {
 .mg-footer-Contact-t-2 {
     font-size: 16px;
     text-transform: capitalize;
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     color: #151515;
     font-weight: 500;
 }
 
 .mg-footer-Contact-t-3 {
     font-size: 16px;
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     color: #151515;
     font-weight: 500;
 }
@@ -850,7 +850,7 @@ a {
 
 .mg-footer-g-c-t-2 {
     font-size: 15px;
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     text-transform: capitalize;
     color: #151515;
     font-weight: 500;
@@ -959,12 +959,12 @@ button.btn-close.text-reset {}
 }
 
 .mg-about-banner-text-3 {
-    font-family: Inter-Medium;
+    font-family: cursive;
     padding: 15px 0;
 }
 
 .mg-banner-text-1 {
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 400;
     font-size: 45px;
     line-height: 42px;
@@ -999,7 +999,7 @@ button.btn-close.text-reset {}
 }
 
 .mg-category-card-text-3 {
-    font-family: Inter-large;
+    font-family: Roboto;
     font-weight: 600;
     font-size: 17px;
     text-transform: capitalize;
@@ -1013,7 +1013,7 @@ button.btn-close.text-reset {}
 }
 
 .mg-ab-category-card-text-2 {
-    font-family: Inter-Medium;
+    font-family: cursive;
     font-size: 13px;
     padding: 40px 0;
 }
@@ -1071,11 +1071,11 @@ button.btn-close.text-reset {}
 .mg-ab-category-t-1 {
     font-size: 16px;
     padding: 10px 0;
-    font-family: Inter-Medium;
+    font-family: cursive;
 }
 
 .mg-ab-pro-span {
-    font-family: Inter-large;
+    font-family: Roboto;
     font-weight: 400;
 }
 
@@ -1128,7 +1128,7 @@ section.scroll-text {
     background-color: #F5EEE6;
     border: none;
     color: #121212;
-    font-family: inter-small;
+    font-family: Inter-small;
     font-size: 12px;
 }
 
@@ -1249,7 +1249,7 @@ a.mg-login-link {
 
 .mg-text {
     padding: 0 10px;
-    font-family: inter-small;
+    font-family: Inter-small;
     font-size: 15px;
     color: #151515;
 }
@@ -1263,7 +1263,7 @@ label {
     padding: 8px 0px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -1351,7 +1351,7 @@ label {
 }
 
 .mg-blog-t-span {
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-size: 30px;
     font-weight: 500;
 }
@@ -1463,7 +1463,7 @@ label {
     padding: 8px 30px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -1491,7 +1491,7 @@ label {
     font-size: 13px;
     font-weight: 500;
     padding: 10px 17px;
-    font-family: 'Inter-Medium';
+    font-family: 'cursive';
 }
 
 /*conatct-page-css-start */
@@ -1510,7 +1510,7 @@ label {
     padding: 8px 30px;
     border-radius: 25px;
     background-color: #F5EEE6;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -1531,13 +1531,13 @@ label {
 
 .mg-Contact-span {
     font-size: 40px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 500;
 }
 
 .mg-Contact-t-2 {
     font-size: 22px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 600;
     margin-top: 10px;
     padding-right: 70px;
@@ -1570,7 +1570,7 @@ label {
     font-size: 15px;
     margin-top: 5px;
     margin-right: 180px;
-    font-family: 'Inter-Medium';
+    font-family: 'cursive';
 }
 
 .mg-contact-details-box\" {
@@ -1628,7 +1628,7 @@ label {
 }
 
 .mg-sd-pro-detail-span-1 {
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-size: 40px;
     font-weight: 500;
 }
@@ -1639,7 +1639,7 @@ label {
 }
 
 .mg-sd-pro-detail-text-2 {
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-size: 25px;
     font-weight: 600;
     margin-top: 10px;
@@ -1755,14 +1755,14 @@ p {
 }
 
 .mg-sd-pro-span {
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-size: 40px;
     font-weight: 500;
 }
 
 .mg-sd-product-span {
     font-size: 35px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 500;
 }
 
@@ -1775,7 +1775,7 @@ p {
     border-radius: 20px;
     width: 120px;
     font-size: 12px;
-    font-family: inter-medium;
+    font-family: cursive;
 }
 
 .mg-quanitity-option-section {
@@ -1787,7 +1787,7 @@ p {
     padding: 8px 60px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -1953,7 +1953,7 @@ p {
 
 .mg-product-price {
     font-size: 20px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 600;
     padding: 10px 0;
 }
@@ -1977,7 +1977,7 @@ p {
 }
 
 .mg-coupon-section-t-1 {
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     text-transform: capitalize;
     font-size: 20px;
     text-decoration: underline;
@@ -1989,7 +1989,7 @@ p {
 }
 
 .mg-coupon-section-t-3 {
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     text-transform: capitalize;
     font-size: 20px;
 }
@@ -2018,7 +2018,7 @@ p {
 
 .mg-coupon-section-rt-1 {
     margin-top: 70px;
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     font-size: 20px;
 }
 
@@ -2032,7 +2032,7 @@ p {
     padding: 8px 30px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -2046,7 +2046,7 @@ p {
     padding: 8px 0px;
     border-radius: 25px;
     background-color: #FFC0CD;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -2070,21 +2070,21 @@ p {
 
 .mg-coupon-section-rt-3 {
     font-size: 15px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 600;
     margin-top: 15px;
 }
 
 .mg-coupon-section-rt-4 {
     font-size: 15px;
-    font-family: 'Inter-medium';
+    font-family: 'cursive';
     font-weight: 500;
     margin-top: 15px;
 }
 
 .mg-coupon-section-span {
     font-size: 15px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-weight: 500;
     margin-top: 15px;
     text-decoration: line-through;
@@ -2175,7 +2175,7 @@ iframe {
     align-items: center;
     display: flex;
     margin-left: 10px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-size: 16px;
     font-weight: 500;
     padding: 15px 0;
@@ -2185,7 +2185,7 @@ iframe {
     padding: 8px 60px;
     border-radius: 25px;
     background-color: #F5EEE6;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     color: #151515;
     font-weight: 600;
     font-size: 16px;
@@ -2227,7 +2227,7 @@ iframe {
     align-items: center;
     display: flex;
     margin-left: 10px;
-    font-family: 'Inter-large';
+    font-family: 'Roboto';
     font-size: 16px;
     padding: 15px 0;
     margin-top: 5px
@@ -2295,7 +2295,7 @@ a.mg-ch-span {
 }
 
 .mg-chekbox-input {
-    font-family: inter-small;
+    font-family: Inter-small;
     font-size: 20px;
     color: #151515;
     padding: 10px 0;
@@ -2555,13 +2555,13 @@ label.error {
 }
 
 .mg-hide-icon {
-    font-family: inter-small;
+    font-family: Inter-small;
     color: #666666;
     font-size: 12px;
 }
 
 .mg-show-icon {
-    font-family: inter-small;
+    font-family: Inter-small;
     color: #666666;
     font-size: 12px;
 }
